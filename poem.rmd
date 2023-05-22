@@ -29,6 +29,11 @@ Beware the Jubjub bird, and shun
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
+He took his vorpal sword in hand;  
+      Long time the manxome foe he sought—  
+So rested he by the Tumtum tree  
+      And stood awhile in thought.  
+
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
